@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project leverages IMDb data to generate insightful reports on top-grossing movies and the financial performance of various studios. By utilizing Excel’s powerful tools—Power Query, Power Pivot, and Pivot Tables—raw data was transformed into valuable insights. This project not only aims to highlight the trends in the movie industry but also provides a clear picture of the financial health of movie studios.
+This project leverages IMDb data to generate insightful reports on top-grossing movies and the financial performance of various studios. By utilizing Excel’s powerful tools Power Query, Power Pivot, and Pivot Tables raw data was transformed into valuable insights. This project not only aims to highlight the trends in the movie industry but also provides a clear picture of the financial health of movie studios.
 
 ## Objectives
 
